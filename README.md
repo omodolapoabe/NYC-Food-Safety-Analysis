@@ -74,4 +74,5 @@ Inspection results revealed noticeable shifts in compliance levels over the ten-
 This project demonstrates how data analytics can be used to support public health initiatives by transforming large inspection datasets into meaningful insights. The findings provide a foundation for more efficient resource allocation, targeted interventions, and improved food safety outcomes across New York City.
 
 
-<img width="1791" height="981" alt="NYC_Dashboard" src="https://github.com/user-attachments/assets/fa6a0aa0-f920-415c-8046-eacedbc34b09" />
+<img width="1119" height="716" alt="NYC_Dashboard" src="https://github.com/user-attachments/assets/a5b26a42-bc9c-4733-a08c-a0c167d254ac" />
+
